@@ -1,5 +1,5 @@
 # MiniProject
-University Grading System
+ # X University Grading System
 
 # Folder Structure
 
@@ -10,3 +10,5 @@ University Grading System
 | 2_DESIGN | Documents specifying design details |
 | 3_IMPLEMENTATION | All code files |
 | 4_TEST PLAN AND OUTPUT | Documents with test plans and procedures |
+
+
