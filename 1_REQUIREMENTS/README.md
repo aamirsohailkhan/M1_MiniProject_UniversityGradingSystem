@@ -24,11 +24,19 @@ Most colleges and universities and some private schools offer a pass/fail gradin
 - Quick output to save time
 - Central Database
 - School custamisable
+# Functional Requirement
+
+-The project should be developed using C language
+-The project should support both Linux and Windows operating systems
 
 
 # Detailed Requirements
- # High level requirement
+  High level requirement
+  =
  
 | ID | Description | Category | Status|
+|----|-------------|----------|--------|
 | HR01| Digitizing the Grading system | Technicle | TBD S-1|
 | HR02 | Getting results | Technicle | TBD S-1 |
+
+
