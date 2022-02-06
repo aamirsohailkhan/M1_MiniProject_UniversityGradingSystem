@@ -13,3 +13,7 @@ Most colleges and universities and some private schools offer a pass/fail gradin
 - Letter Grades
 
 # SWOT ANALYSIS
+![SWOT Analysis Infographics](https://user-images.githubusercontent.com/46382398/152668956-c71085a1-1df7-453f-b5e0-21c9a13ecdd3.png)
+
+# 5W 1H 
+![5W1H Method](https://user-images.githubusercontent.com/46382398/152668964-86c6e42a-31d0-4632-8bf8-4d43554abff8.png)
