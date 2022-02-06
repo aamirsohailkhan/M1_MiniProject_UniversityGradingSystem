@@ -1,9 +1,17 @@
 
 # TEST PLAN
+
+# Highlevel Testplan
+
 | ID | Description | Expected Input | Expected Output | Actual Output | Type of Test |
 |----|-------------|----------|--------|---------------|--------------|
 | HR01| Digitizing the Grading system | Valid | Matched| Passed | Requirement Based |
 | HR02 | Getting results | Valid  | Matched  | Passed | Requirement Based |
+
+# Low Level Testplan
+
+| ID | Description | Expected Input | Expected Output | Actual Output | Type of Test |
+|----|-------------|----------|--------|---------------|--------------|
 | LR01| Log in to the results potal |  Valid | Mateched | Passed | Requirement Based |
 | LR01| Enter the Name | Valid | Mateched | Passed | Requirement Based |
 | LR01| Enter the student name| Valid | Mateched | Passed | Requirement Based |
