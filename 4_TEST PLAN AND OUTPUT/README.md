@@ -1,6 +1,15 @@
 
 # TEST PLAN
-
+| ID | Description | Expected Input | Expected Output | Actual Output | Type of Test |
+|----|-------------|----------|--------|---------------|--------------|
+| HR01| Digitizing the Grading system | Valid | Matched| Passed | Requirement Based |
+| HR02 | Getting results | Valid  | Matched  | Passed | Requirement Based |
+| LR01| Log in to the results potal |  Valid | Mateched | Passed | Requirement Based |
+| LR01| Enter the Name | Valid | Mateched | Passed | Requirement Based |
+| LR01| Enter the student name| Valid | Mateched | Passed | Requirement Based |
+| LR02 | Grade to the next decimal| Valid | Mateched | Passed | Requirement Based |
+| LR03 | Grade to the next multiple of 5 |Valid | Mateched | Passed | Requirement Based |
+| LR03| Both the systems | Valid | Mateched | Passed | Requirement Based |
 
 
 # Screenshots of The Application
