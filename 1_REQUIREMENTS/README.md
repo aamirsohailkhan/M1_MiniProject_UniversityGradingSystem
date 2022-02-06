@@ -26,8 +26,8 @@ Most colleges and universities and some private schools offer a pass/fail gradin
 - School custamisable
 # Functional Requirement
 
--The project should be developed using C language
--The project should support both Linux and Windows operating systems
+- The project should be developed using C language
+- The project should support both Linux and Windows operating systems
 
 
 # Detailed Requirements
@@ -40,3 +40,13 @@ Most colleges and universities and some private schools offer a pass/fail gradin
 | HR02 | Getting results | Technicle | TBD S-1 |
 
 
+# Low level requirements
+
+| ID | Description | HLR ID | Status (Implemented / future )|
+|----|-------------|----------|--------|
+| LR01| Log in to the results potal |  HR01 | Implemented|
+| LR01| Enter the Name | HR01 | Implemented|
+| LR01| Enter the student name| HR01 | Implemented|
+| LR02 | Grade to the next decimal| HR02 | Implemented |
+| LR03 | Grade to the next multiple of 5 | HR02 | Implemented |
+| LR03| Both the systems | HR02 | Implemented |
