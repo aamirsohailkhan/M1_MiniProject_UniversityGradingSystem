@@ -1,7 +1,7 @@
 # MiniProject
 University Grading System
 
-Folder Structure
+# Folder Structure
 
 | Folder   | Discription |
 | ------------- | ------------- |
