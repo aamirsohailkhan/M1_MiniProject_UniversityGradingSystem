@@ -7,7 +7,7 @@ Soul aim of the project is to digitize the process of maintianing records at an 
 # LITERARY SURVEY
 Most colleges and universities and some private schools offer a pass/fail grading system for at least some of their courses. In some institutions, pass/fail is the only option for some or all of their courses. Student grading system is different from the traditional five-interval grading system that gives students A, B, C, D or F grades to give them an idea of their academic standing and progress This system of a clear boundary between making the grade or falling short has benefits for students individually as well as collectively. 
 
-# TYPES OF GRADING 
+ # TYPES OF GRADING 
 - Mastery Grading 
 - Grading Scale 
 - Letter Grades
@@ -17,3 +17,18 @@ Most colleges and universities and some private schools offer a pass/fail gradin
 
 # 5W 1H 
 ![5W1H Method](https://user-images.githubusercontent.com/46382398/152668964-86c6e42a-31d0-4632-8bf8-4d43554abff8.png)
+
+# Features
+- Easy to operate
+- User accessable
+- Quick output to save time
+- Central Database
+- School custamisable
+
+
+# Detailed Requirements
+ # High level requirement
+ 
+| ID | Description | Category | Status|
+| HR01| Digitizing the Grading system | Technicle | TBD S-1|
+| HR02 | Getting results | Technicle | TBD S-1 |
