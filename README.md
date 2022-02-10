@@ -1,7 +1,9 @@
-# MiniProject
- # X University Grading System
+# M1_MiniProject_UniversityGradingSystem
+ 
+ ##  X University Grading System
 
-# Folder Structure
+
+* Folder Structure
 
 | Folder   | Discription |
 | ------------- | ------------- |
