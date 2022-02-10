@@ -5,7 +5,7 @@
 ![istockphoto-957333364-612x612](https://user-images.githubusercontent.com/46382398/153377328-84fadd7d-d85d-4b18-857b-c4d449e81900.jpg)
 
 
-* Folder Structure
+## Folder Structure
 
 | Folder   | Discription |
 | ------------- | ------------- |
