@@ -1,0 +1,19 @@
+name: Build- linux 
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: configure
+      run: ./configure
+    - name: make
+      run: make Run -/media/aamir/new volume/M1_Miniproject_UniversityGradingSystem/3_IMPLEMENTATION
