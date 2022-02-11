@@ -1,4 +1,4 @@
-name: cppcheck
+name: Build-Linux
 
 on:
   push:
