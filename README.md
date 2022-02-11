@@ -23,5 +23,5 @@
 | 2_DESIGN | Documents specifying design details |
 | 3_IMPLEMENTATION | All code files |
 | 4_TEST PLAN AND OUTPUT | Documents with test plans and procedures |
-
-
+| 5_REPORT | All README.md files and Reoprt copy |
+| 6_IMAGES | Screenshots of Implementation and Output |
