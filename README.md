@@ -7,9 +7,9 @@
 
 ## Code Quality
 
-| Codiga   | Codecy | Cppcheck |
-| ------------- | ------------- | ------- |
-|![svg](https://user-images.githubusercontent.com/46382398/153545576-d6fb7338-aaaa-4c0b-87d2-d035cb33fdde.svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c66c4cabeda840f5a6db00c91dd1d49a)](https://www.codacy.com/gh/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aamirsohailkhan/M1_MiniProject_UniversityGradingSystem&amp;utm_campaign=Badge_Grade)  | [![static-Analysis](https://github.com/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/actions/workflows/cppcheck.yml) |
+| Codiga   | Codecy | Static-Analysis | cpp-check |
+| ------------- | ------------- | ------- |--------|
+|![svg](https://user-images.githubusercontent.com/46382398/153545576-d6fb7338-aaaa-4c0b-87d2-d035cb33fdde.svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c66c4cabeda840f5a6db00c91dd1d49a)](https://www.codacy.com/gh/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aamirsohailkhan/M1_MiniProject_UniversityGradingSystem&amp;utm_campaign=Badge_Grade)  | [![static-Analysis](https://github.com/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/actions/workflows/cppcheck.yml) | [![cppcheck](https://github.com/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/aamirsohailkhan/M1_MiniProject_UniversityGradingSystem/actions/workflows/cpp-check.yml) |
 
 
 
