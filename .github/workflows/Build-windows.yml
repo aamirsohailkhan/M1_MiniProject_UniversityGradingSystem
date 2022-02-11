@@ -13,5 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name : Install
+    - run : sudo apt install make
     - name: make
-      run: make Run ./gradingsystem.out
+      run: make Run -c /3_IMPLEMENTATION ./gradingsystem.out
