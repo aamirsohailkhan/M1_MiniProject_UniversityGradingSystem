@@ -13,5 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build C 
+    - name: gradingsystem
       Run: gradingsystem.exe
