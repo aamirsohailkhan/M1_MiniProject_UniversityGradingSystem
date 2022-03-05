@@ -23,5 +23,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install gcov 
       run: sudo apt -y install gcovr
-    - name: make coverage
-      run: make coverage 3_Implementation
+    - name: make 
+      run: make Run 3_Implementation 
