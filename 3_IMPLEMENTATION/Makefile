@@ -1,13 +1,29 @@
 
+PROJECT_NAME = gradingsystem
+
+
+
+ifdef OS
+	RM = del /q
+	Fixpath = $(subst /, \,$1)
+	EXEC = exe
+
+else
+	ifeq ($(shell uname), Linux)
+	RM = rm -rf
+	Fixpath = $1
+	EXEC = .out
+	endif
+endif
+
+
 Build : 
 	
-	gcc gradingsystem.c  -o gradingsystem.out
+	gcc main.c functions.h functions.c   -o grading.out -lm
 
 
 
 
-Run	:gradingsystem.out
-	 ./gradingsystem.out
+run : Build:grading.out
+	 ./grading.out
 
-
-clean:
