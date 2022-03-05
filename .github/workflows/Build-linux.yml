@@ -13,6 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make run -c 3_IMPLEMENTATION
+    - name: make Build grading.out
+      run: make run -C 3_IMPLEMENTATION 
    
